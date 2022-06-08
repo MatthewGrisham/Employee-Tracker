@@ -8,6 +8,8 @@ Design
 This application follows the database shcema containing three variables:
 
 
+Link of a demo video. 
+https://drive.google.com/file/d/122tEXyK1NVxBqIW_-HwJ33pzV1MZD8Bn/view
 
 About
 Application tree structure: The application is user friendly and built to handle large amount of data (ie: what if the company have about 10,000 employees and 1,000+ roles)
